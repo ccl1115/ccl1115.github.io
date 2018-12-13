@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Yulu Self Intro</title>
+    <title>Yu Lu</title>
     <link>https://ccl1115.github.io/</link>
-    <description>Recent content on Yulu Self Intro</description>
+    <description>Recent content on Yu Lu</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-US</language>
+    <language>en</language>
     
 	<atom:link href="https://ccl1115.github.io/index.xml" rel="self" type="application/rss+xml" />
     
@@ -16,9 +16,18 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://ccl1115.github.io/about/</guid>
-      <description> About Name Yu Lu
+      <description> About Name 禹璐
 Age 31
-Job  Full-stack web developer Android app developer  </description>
+Job  Full-stack web developer Android app developer  Interests  Play games Hi-Res Music  </description>
+    </item>
+    
+    <item>
+      <title>Kotlin Tips</title>
+      <link>https://ccl1115.github.io/blog/kotlin_tips/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://ccl1115.github.io/blog/kotlin_tips/</guid>
+      <description></description>
     </item>
     
   </channel>
