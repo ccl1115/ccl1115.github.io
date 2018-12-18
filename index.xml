@@ -17,7 +17,9 @@
       
       <guid>https://ccl1115.github.io/about/</guid>
       <description> About Name 禹璐
+Gender Male
 Age 31
+Email ccl1115(at)gmail.com
 Job  Full-stack web developer Android app developer  Interests  Play games Hi-Res Music  </description>
     </item>
     
@@ -27,7 +29,18 @@ Job  Full-stack web developer Android app developer  Interests  Play games Hi-Re
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://ccl1115.github.io/blog/kotlin_tips/</guid>
-      <description></description>
+      <description>为什么使用Kotlin Kotlin是现代语言 相比传统且保守的Java, Kotlin有更多高级的特性, 更简洁高效的语法. 这在提高开发效率以及代码可读性等方面有很大的帮助. 但是特性丰富的Kotlin也意味着它比Java在语法上要复杂一些, 同时它有很多有趣但并不容易学习和记忆的语法糖, 除非你学习过一些比较新的语言, 例如Swift, 否则上手Kotlin并不是件简单的事情. 不过我觉得这并是不我们拒绝学习和使用Kotlin的理由.
+Google官方的支持 Kotlin是由著名的IDE开发商JetBrain设计的语言, 在Google宣布支持其作为Android平台下应用开发的官方语言后, 它开始受到了大家的关注. 如果你是一名Android工程师, 在现阶段实在是没有拒绝Kotlin的理由.
+不仅仅用来编写Android应用 Kotlin在设计的时候就非常灵活, 在Android平台下它基于JVM, 但是它也可以被编译成native的程序, 它还可以被转义成JavaScript以便于在浏览器中运行. Kotlin团队在这方面下了不少的功夫,</description>
+    </item>
+    
+    <item>
+      <title>Skills</title>
+      <link>https://ccl1115.github.io/skills/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://ccl1115.github.io/skills/</guid>
+      <description> Programming language 编程语言  Java 主要用于Android开发, 也对JavaEE技术栈有所了解和使用. Python 主要用于平时自动化任务脚本的开发, 也对Django和Flask等Web Framework有所了解. JavaScript 前端/NodeJS平台开发, 对其衍生的TypeScript/CoffeeScript也有所了解. Kotlin 用于Android开发 Golang 业余爱好学习  Platform 平台  Android 近六年Android开发经验 NodeJS 一年开发经验, 维护几个公司的网站: 内部管理和审核网站的前端渲染, 活动页面管理等 Vue 一年开发经验, 开发客户端Web页, 微信活动页等 微信小程序 开发过两个简单的微信小程序  Libraries and tools 库和工具 Android 图像处理  Glide Fresco Picasso  内存优化  LeakCanary  依赖注入  Dagger  官方框架  ViewModel LiveData Room  JavaScript Vue  vue-router vuex  NodeJS  KoaJS Express SocketIO  Server 服务器端 高速缓存  Redis Memcached  数据库  MySQL  RestFul接口设计规范 General 通用 版本管理  GIT SVN GitHub BitBucket GitLab  编辑器  VIM Intellij系列 Android Studio Visual Studio Code  持续集成  Jenkins JetBrain TeamCity TravisCI  </description>
     </item>
     
   </channel>

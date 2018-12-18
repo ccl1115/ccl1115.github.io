@@ -16,7 +16,9 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://ccl1115.github.io/blog/kotlin_tips/</guid>
-      <description></description>
+      <description>为什么使用Kotlin Kotlin是现代语言 相比传统且保守的Java, Kotlin有更多高级的特性, 更简洁高效的语法. 这在提高开发效率以及代码可读性等方面有很大的帮助. 但是特性丰富的Kotlin也意味着它比Java在语法上要复杂一些, 同时它有很多有趣但并不容易学习和记忆的语法糖, 除非你学习过一些比较新的语言, 例如Swift, 否则上手Kotlin并不是件简单的事情. 不过我觉得这并是不我们拒绝学习和使用Kotlin的理由.
+Google官方的支持 Kotlin是由著名的IDE开发商JetBrain设计的语言, 在Google宣布支持其作为Android平台下应用开发的官方语言后, 它开始受到了大家的关注. 如果你是一名Android工程师, 在现阶段实在是没有拒绝Kotlin的理由.
+不仅仅用来编写Android应用 Kotlin在设计的时候就非常灵活, 在Android平台下它基于JVM, 但是它也可以被编译成native的程序, 它还可以被转义成JavaScript以便于在浏览器中运行. Kotlin团队在这方面下了不少的功夫,</description>
     </item>
     
   </channel>
