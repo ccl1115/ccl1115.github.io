@@ -1,0 +1,1 @@
+{"data":{"posts":{"totalCount":1,"edges":[{"node":{"uid":"hello_world","data":{"title":{"text":"Hello world"},"date":"26.12.2018","categories":[{"category":{"document":[{"data":{"name":"default"}}]}}]}}}]}},"pageContext":{"category":"default"}}
